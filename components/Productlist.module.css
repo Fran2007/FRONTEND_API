@@ -1,0 +1,17 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.listItem{
+    width: 30%;
+    margin:10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
